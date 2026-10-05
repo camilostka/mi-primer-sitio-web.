@@ -3,7 +3,7 @@
 Bienvenido/a a mi primer proyecto en la materia Tecnologías de la Información.
 
 ## Presentación
-- **Estudiante:** Aguero Camilo
+- **Estudiante:** Camilo Agüero
 - **Curso:** 4-2
 - **Escuela:** Agustin tosco
 
